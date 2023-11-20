@@ -28,11 +28,11 @@ Users should be able to:
 
 #### Desktop Design
 
-![](images/social-desktop.jpeg.jpg)
+![](images/social-desktop.jpeg)
 
 #### Mobile Design
 
-![](images/social-mobile.jpeg.jpg)
+![](images/social-mobile.jpeg)
 
 ### Links
 
